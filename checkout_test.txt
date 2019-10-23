@@ -1,2 +1,0 @@
-Ciao! Con questo file proveremo a capire come funziona il checkout in git
-E questo mi sembra un ottimo momento

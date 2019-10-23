@@ -1,2 +1,0 @@
-questo file è un file di prova per testare il flusso di caricamento su GitHub
-questa linea è stata aggiunta in un secondo momento
